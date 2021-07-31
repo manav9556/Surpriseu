@@ -38,6 +38,11 @@ function makeSound(key) {
       var tom3 = new Audio('New folder/Tera Birthday Aaya Hai 1.mp3');
       tom3.play();
       break;
+       case "k":
+      
+      var tom4= new Audio('New folder/hum-dono-yun-mile.mp3');
+      tom4.play();
+      break;
 
     
     default: console.log(key);
